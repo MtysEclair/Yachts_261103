@@ -1,0 +1,23 @@
+
+# Visual Studio
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Angular / Node.js
+**/node_modules/
+**/.angular/
+**/dist/
+**/coverage/
+
+# Lokális adatbázis és ideiglenes fájlok
+*.db
+*.db-shm
+*.db-wal
+*.tmp
+
+# Rendszerfájlok
+.DS_Store
+Thumbs.db

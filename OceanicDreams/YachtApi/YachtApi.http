@@ -1,0 +1,6 @@
+@YachtApi_HostAddress = http://localhost:5147
+
+GET {{YachtApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

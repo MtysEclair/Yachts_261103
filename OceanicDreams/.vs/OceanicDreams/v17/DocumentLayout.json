@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF7FEBC-29DE-42C3-8CFB-39E2F1256583}|YachtApi\\YachtApi.csproj|d:\\2026_school\\ii. semester\\feladatok\\261104_yachts\\oceanicdreams\\yachtapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF7FEBC-29DE-42C3-8CFB-39E2F1256583}|YachtApi\\YachtApi.csproj|solutionrelative:yachtapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF7FEBC-29DE-42C3-8CFB-39E2F1256583}|YachtApi\\YachtApi.csproj|d:\\2026_school\\ii. semester\\feladatok\\261104_yachts\\oceanicdreams\\yachtapi\\controllers\\berlesekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF7FEBC-29DE-42C3-8CFB-39E2F1256583}|YachtApi\\YachtApi.csproj|solutionrelative:yachtapi\\controllers\\berlesekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF7FEBC-29DE-42C3-8CFB-39E2F1256583}|YachtApi\\YachtApi.csproj|d:\\2026_school\\ii. semester\\feladatok\\261104_yachts\\oceanicdreams\\yachtapi\\data\\yachtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF7FEBC-29DE-42C3-8CFB-39E2F1256583}|YachtApi\\YachtApi.csproj|solutionrelative:yachtapi\\data\\yachtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF7FEBC-29DE-42C3-8CFB-39E2F1256583}|YachtApi\\YachtApi.csproj|d:\\2026_school\\ii. semester\\feladatok\\261104_yachts\\oceanicdreams\\yachtapi\\models\\berles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF7FEBC-29DE-42C3-8CFB-39E2F1256583}|YachtApi\\YachtApi.csproj|solutionrelative:yachtapi\\models\\berles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5A06F1-CE2C-440D-907A-CF8D7E232FCE}|YachtMaintenance\\YachtMaintenance.csproj|d:\\2026_school\\ii. semester\\feladatok\\261104_yachts\\oceanicdreams\\yachtmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA5A06F1-CE2C-440D-907A-CF8D7E232FCE}|YachtMaintenance\\YachtMaintenance.csproj|solutionrelative:yachtmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5A06F1-CE2C-440D-907A-CF8D7E232FCE}|YachtMaintenance\\YachtMaintenance.csproj|d:\\2026_school\\ii. semester\\feladatok\\261104_yachts\\oceanicdreams\\yachtmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5A06F1-CE2C-440D-907A-CF8D7E232FCE}|YachtMaintenance\\YachtMaintenance.csproj|solutionrelative:yachtmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5A06F1-CE2C-440D-907A-CF8D7E232FCE}|YachtMaintenance\\YachtMaintenance.csproj|d:\\2026_school\\ii. semester\\feladatok\\261104_yachts\\oceanicdreams\\yachtmaintenance\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5A06F1-CE2C-440D-907A-CF8D7E232FCE}|YachtMaintenance\\YachtMaintenance.csproj|solutionrelative:yachtmaintenance\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5A06F1-CE2C-440D-907A-CF8D7E232FCE}|YachtMaintenance\\YachtMaintenance.csproj|d:\\2026_school\\ii. semester\\feladatok\\261104_yachts\\oceanicdreams\\yachtmaintenance\\koltseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5A06F1-CE2C-440D-907A-CF8D7E232FCE}|YachtMaintenance\\YachtMaintenance.csproj|solutionrelative:yachtmaintenance\\koltseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtMaintenance\\Form1.cs",
+              "RelativeDocumentMoniker": "YachtMaintenance\\Form1.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtMaintenance\\Form1.cs",
+              "RelativeToolTip": "YachtMaintenance\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T18:13:48.16Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Koltseg.cs",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtMaintenance\\Koltseg.cs",
+              "RelativeDocumentMoniker": "YachtMaintenance\\Koltseg.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtMaintenance\\Koltseg.cs",
+              "RelativeToolTip": "YachtMaintenance\\Koltseg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T18:25:14.859Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BerlesekController.cs",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtApi\\Controllers\\BerlesekController.cs",
+              "RelativeDocumentMoniker": "YachtApi\\Controllers\\BerlesekController.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtApi\\Controllers\\BerlesekController.cs",
+              "RelativeToolTip": "YachtApi\\Controllers\\BerlesekController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwGwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:12:30.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtApi\\Program.cs",
+              "RelativeDocumentMoniker": "YachtApi\\Program.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtApi\\Program.cs",
+              "RelativeToolTip": "YachtApi\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:09:26.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YachtDbContext.cs",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtApi\\Data\\YachtDbContext.cs",
+              "RelativeDocumentMoniker": "YachtApi\\Data\\YachtDbContext.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtApi\\Data\\YachtDbContext.cs",
+              "RelativeToolTip": "YachtApi\\Data\\YachtDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:08:53.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Berles.cs",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtApi\\Models\\Berles.cs",
+              "RelativeDocumentMoniker": "YachtApi\\Models\\Berles.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtApi\\Models\\Berles.cs",
+              "RelativeToolTip": "YachtApi\\Models\\Berles.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:07:53.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtMaintenance\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "YachtMaintenance\\Form1.Designer.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtMaintenance\\Form1.Designer.cs",
+              "RelativeToolTip": "YachtMaintenance\\Form1.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwKMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T18:11:07.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtMaintenance\\Form1.cs",
+              "RelativeDocumentMoniker": "YachtMaintenance\\Form1.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261104_Yachts\\OceanicDreams\\YachtMaintenance\\Form1.cs [Design]",
+              "RelativeToolTip": "YachtMaintenance\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:55:21.69Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

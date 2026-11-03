@@ -1,0 +1,15 @@
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\bin\Debug\net9.0\yacht_berlesek_2024.csv
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\bin\Debug\net9.0\YachtStatistics.exe
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\bin\Debug\net9.0\YachtStatistics.deps.json
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\bin\Debug\net9.0\YachtStatistics.runtimeconfig.json
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\bin\Debug\net9.0\YachtStatistics.dll
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\bin\Debug\net9.0\YachtStatistics.pdb
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\obj\Debug\net9.0\YachtStatistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\obj\Debug\net9.0\YachtStatistics.AssemblyInfoInputs.cache
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\obj\Debug\net9.0\YachtStatistics.AssemblyInfo.cs
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\obj\Debug\net9.0\YachtStatistics.csproj.CoreCompileInputs.cache
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\obj\Debug\net9.0\YachtStatistics.dll
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\obj\Debug\net9.0\refint\YachtStatistics.dll
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\obj\Debug\net9.0\YachtStatistics.pdb
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\obj\Debug\net9.0\YachtStatistics.genruntimeconfig.cache
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtStatistics\obj\Debug\net9.0\ref\YachtStatistics.dll

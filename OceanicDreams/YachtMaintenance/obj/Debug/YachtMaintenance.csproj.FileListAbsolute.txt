@@ -1,0 +1,11 @@
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtMaintenance\bin\Debug\yacht_koltsegek_2024.csv
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtMaintenance\bin\Debug\YachtMaintenance.exe.config
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtMaintenance\bin\Debug\YachtMaintenance.exe
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtMaintenance\bin\Debug\YachtMaintenance.pdb
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtMaintenance\obj\Debug\YachtMaintenance.csproj.AssemblyReference.cache
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtMaintenance\obj\Debug\YachtMaintenance.Form1.resources
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtMaintenance\obj\Debug\YachtMaintenance.Properties.Resources.resources
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtMaintenance\obj\Debug\YachtMaintenance.csproj.GenerateResource.cache
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtMaintenance\obj\Debug\YachtMaintenance.csproj.CoreCompileInputs.cache
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtMaintenance\obj\Debug\YachtMaintenance.exe
+D:\2026_school\II. semester\Feladatok\261104_Yachts\OceanicDreams\YachtMaintenance\obj\Debug\YachtMaintenance.pdb
